@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 944f145d268968f4c8ad9297e804eca0, type: 3}
+  m_Name: Donut
+  m_EditorClassIdentifier: 
+  Price: {fileID: 11400000, guid: 710f87b83101be04791646cabd0910e7, type: 2}
+  Avatar: {fileID: 21300000, guid: 3b7c7b6a53fd06145a6dc97242d37a8f, type: 3}
+  Name: Donut
+  Id: c12cdc0c-f117-4d6f-af3d-fe8b29059c6e
+  VisibleInInventory: 1
+  ingredients:
+  - InventoryItem: {fileID: 11400000, guid: 30d5d82e0e2651d49a56413fcadef3ba, type: 2}
+    Quantity: 3
+  - InventoryItem: {fileID: 11400000, guid: 36d0a5fa95f495344b35ed80adf92acd, type: 2}
+    Quantity: 3
+  cookDuration: 30

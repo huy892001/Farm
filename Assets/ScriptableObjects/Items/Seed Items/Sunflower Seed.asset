@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae309b52a997f9a46b55261d4ede0326, type: 3}
+  m_Name: Sunflower Seed
+  m_EditorClassIdentifier: 
+  Price: {fileID: 11400000, guid: d02e02fe5ae4c1d41a48abbcde996081, type: 2}
+  Avatar: {fileID: 21300000, guid: 1807f59cc07b6584ca12f46c41098d3c, type: 3}
+  Name: Sunflower
+  Id: b1dcd33d-a303-4875-8a25-e8964dbdd0a6
+  VisibleInInventory: 1
+  unlockLevel: 5
+  cropItem: {fileID: 11400000, guid: 36d0a5fa95f495344b35ed80adf92acd, type: 2}

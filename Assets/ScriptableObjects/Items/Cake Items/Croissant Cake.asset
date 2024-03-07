@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 944f145d268968f4c8ad9297e804eca0, type: 3}
+  m_Name: Croissant Cake
+  m_EditorClassIdentifier: 
+  Price: {fileID: 11400000, guid: 92f20487fa8d6bf47b5c3e5f758a7066, type: 2}
+  Avatar: {fileID: 21300000, guid: b6de60c8f65877e47b96e5ae080a707a, type: 3}
+  Name: Croissant
+  Id: 8d39f7c9-8277-4092-8e72-11f589efae40
+  VisibleInInventory: 1
+  ingredients:
+  - InventoryItem: {fileID: 11400000, guid: 30d5d82e0e2651d49a56413fcadef3ba, type: 2}
+    Quantity: 1
+  - InventoryItem: {fileID: 11400000, guid: d2168caaa85c2fb4eb41391420724f48, type: 2}
+    Quantity: 2
+  - InventoryItem: {fileID: 11400000, guid: 461b98210f8d5514a8ce91ea2cad3d30, type: 2}
+    Quantity: 3
+  cookDuration: 20

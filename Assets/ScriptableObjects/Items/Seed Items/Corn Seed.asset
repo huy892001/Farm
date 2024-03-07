@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae309b52a997f9a46b55261d4ede0326, type: 3}
+  m_Name: Corn Seed
+  m_EditorClassIdentifier: 
+  Price: {fileID: 11400000, guid: 89bf266bf8ed0d949861acf3eaffe18c, type: 2}
+  Avatar: {fileID: 21300000, guid: 1ac0c4a0f9f12f741920c5de6728d909, type: 3}
+  Name: Corn
+  Id: 8efa5181-68c2-4b69-95a3-f702f5486d9e
+  VisibleInInventory: 1
+  unlockLevel: 1
+  cropItem: {fileID: 11400000, guid: 7103c2840a0701c4e80057b51d003a4e, type: 2}

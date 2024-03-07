@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f8a848ea52bff14896268954e0e3200, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  initGold: 50
+  initSeeds:
+  - InventoryItem: {fileID: 11400000, guid: f4a11e1834ee9f540a4414ae3ae66e6e, type: 2}
+    Quantity: 1
+  - InventoryItem: {fileID: 11400000, guid: 4bb68f0411e2e8d48bf6518d58a92187, type: 2}
+    Quantity: 1
+  missions:
+  - {fileID: 11400000, guid: 991cdbce6781d9148868bb63296e04a8, type: 2}
+  time: 60

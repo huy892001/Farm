@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c2302b6fbacfe848abe72bf7fd8894c, type: 3}
+  m_Name: Lv6_item_mission
+  m_EditorClassIdentifier: 
+  requiredItems:
+  - InventoryItem: {fileID: 11400000, guid: 4c57aa0c2f00a1e429d05e3573fe4b17, type: 2}
+    Quantity: 2
+  - InventoryItem: {fileID: 11400000, guid: 36d0a5fa95f495344b35ed80adf92acd, type: 2}
+    Quantity: 2
+  - InventoryItem: {fileID: 11400000, guid: 461b98210f8d5514a8ce91ea2cad3d30, type: 2}
+    Quantity: 2

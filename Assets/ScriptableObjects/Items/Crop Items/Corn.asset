@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f0c2b35f5890a049bc181c9c8c60c90, type: 3}
+  m_Name: Corn
+  m_EditorClassIdentifier: 
+  Price: {fileID: 11400000, guid: 89bf266bf8ed0d949861acf3eaffe18c, type: 2}
+  Avatar: {fileID: 21300000, guid: 1ac0c4a0f9f12f741920c5de6728d909, type: 3}
+  Name: Corn
+  Id: a7975a7f-a8a4-4ed3-a7d1-c3342609df7f
+  VisibleInInventory: 1
+  grownDuration: 6
+  diseasedPercent: 5
+  thirstyPercent: 5
+  cropType: 1

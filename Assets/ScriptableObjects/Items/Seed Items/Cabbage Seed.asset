@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae309b52a997f9a46b55261d4ede0326, type: 3}
+  m_Name: Cabbage Seed
+  m_EditorClassIdentifier: 
+  Price: {fileID: 11400000, guid: c2e1c8cc82eb4ce489c508972a5edf1b, type: 2}
+  Avatar: {fileID: 21300000, guid: 1483bf6037c2aea4a805bd735c398573, type: 3}
+  Name: Cabbage
+  Id: 2b58874d-465a-4094-96c2-724aadccb5e8
+  VisibleInInventory: 1
+  unlockLevel: 5
+  cropItem: {fileID: 11400000, guid: 3e57a899911e08e4d9964dffe42b2354, type: 2}

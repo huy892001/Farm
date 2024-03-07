@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae309b52a997f9a46b55261d4ede0326, type: 3}
+  m_Name: Pumpkin Seed
+  m_EditorClassIdentifier: 
+  Price: {fileID: 11400000, guid: c4c7a223d5c5f0548a9c3af43716093c, type: 2}
+  Avatar: {fileID: 21300000, guid: 68a586aeb126e674691a18c5fb674195, type: 3}
+  Name: Pumpkin
+  Id: c546188c-1bb9-4dae-8031-f40058746507
+  VisibleInInventory: 1
+  unlockLevel: 3
+  cropItem: {fileID: 11400000, guid: d2168caaa85c2fb4eb41391420724f48, type: 2}
